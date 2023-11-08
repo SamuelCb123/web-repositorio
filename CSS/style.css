@@ -10,6 +10,14 @@
     font-weight: bold;
   }
 
+.parte1{
+  background-image: url('../fondos/fondos.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+
+
+}
 
 
 

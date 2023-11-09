@@ -1,6 +1,4 @@
-body{
-margin: 10px;
-}
+
 
 
 .navbar-nav a {
@@ -18,12 +16,18 @@ margin: 10px;
    
   }
   .parte1 p{
-   color: #333333;;
+   color: #F2B30F;
+   font-size: 19px;
 
    padding: 20px;
   }
+  .parte2 h2{
+    color: red;
+    padding: 10px;
+    margin-left: 113px;
+  }
 
-.parte1{
+.fondo{
   background-image: url('../fondos/fondos.jpg');
   background-size: cover;
   background-repeat: no-repeat;

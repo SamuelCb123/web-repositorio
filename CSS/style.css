@@ -1,3 +1,6 @@
+body{
+margin: 10px;
+}
 
 
 .navbar-nav a {
@@ -9,6 +12,16 @@
     color: #ffff;
     font-weight: bold;
   }
+  .parte1 h2{
+    color: red ;
+    padding: 10px;
+   
+  }
+  .parte1 p{
+   color: #333333;;
+
+   padding: 20px;
+  }
 
 .parte1{
   background-image: url('../fondos/fondos.jpg');
@@ -19,7 +32,12 @@
 
 }
 
+.yo{
+  margin-top: 60px;
+  padding: 10px;
+  margin: 23px;
 
+}
 
 
 

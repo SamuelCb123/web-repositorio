@@ -35,7 +35,15 @@
 
 
 }
+.icons{
+  margin-right: 34px;
+  width: 114px;
+}
 
+.icons2{
+  margin-right: 34px;
+  width: 114px;
+}
 .yo{
   margin-top: 60px;
   padding: 10px;
@@ -44,6 +52,9 @@
 }
 
 
+.habilidades {
+  color: red;
+  padding: 10px;
 
-
+}
 

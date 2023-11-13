@@ -23,10 +23,17 @@
   }
   .parte2 h2{
     color: red;
-    padding: 10px;
-    margin-left: 113px;
+    padding: 20px;
+    margin-left: 513px;
   }
+   
+  .parte3 h2{
+    color: red;
+    padding: 10px;
+    margin-left: 513px;
+    
 
+  }
 .fondo{
   background-image: url('../fondos/fondos.jpg');
   background-size: cover;
@@ -58,3 +65,12 @@
 
 }
 
+.trabajos{
+  width: 500px;
+  margin: auto;
+  margin-left: 155px;
+}
+
+.fila1{
+  margin-right: 123px;
+}
